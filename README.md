@@ -8,4 +8,4 @@ Projects:
 <img src="./projects-snapshots/bmi-calculator.png" alt="drawing" style="width:200px; height: 200px;"/>
 
 2. Password-generator
-<img src="./projects-snapshots/password-generator.png" alt="drawing" style="width:400px; height: 200px;"/>
+<img src="./projects-snapshots/password-generator.png" alt="drawing" style="width:200px; height: 200px;"/>
